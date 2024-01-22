@@ -1,6 +1,6 @@
 - Hi, I’m Sajed Karimy (@sjdKRM).
 - I’m interested in Quantum Algorithms and Quantum Software engineering.
-- I’m currently learning Quantum Information and SQL.
+- I’m currently learning Quantum Information.
 - You can reach me via email: sajedkarimy@gmail.com 
 
 <!---
